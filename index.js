@@ -44,6 +44,7 @@ function sendBookingEmail(booking) {
     // });
 
     // * SandGrid  transporter setup * //
+    // * SandGrid  transporter setup * //
     transporter.sendMail({
         from: "omeyjkt@gmail.com", // verified sender email
         to: email, // recipient email
